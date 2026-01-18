@@ -35,3 +35,6 @@ The system simulates a secure communication protocol between a client and a serv
 ### Start the server
 
 python3 server.py <port>
+
+Run the client
+python3 client.py <server_ip> <port>
